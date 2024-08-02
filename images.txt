@@ -2,3 +2,5 @@ nginx
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
 golangci/golangci-lint:v1.59.1
+docker.io/hashicorp/consul:1.18.1
+docker.io/hashicorp/consul-k8s-control-plane:1.4.1
