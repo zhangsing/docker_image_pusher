@@ -6,3 +6,4 @@ docker.io/hashicorp/consul:1.18.1
 docker.io/hashicorp/consul-k8s-control-plane:1.4.1
 apache/doris:2.0.0_alpha-be-x86_64
 apache/doris:2.0.0_alpha-fe-x86_64
+ghcr.io/dexidp/dex:v2.32.0
