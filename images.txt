@@ -9,3 +9,5 @@ apache/doris:2.0.0_alpha-be-x86_64
 apache/doris:2.0.0_alpha-fe-x86_64
 ghcr.io/dexidp/dex:v2.32.0
 registry.opensource.zalan.do/acid/pgbouncer:master-27
+ghcr.io/zalando/spilo-15:3.0-p1
+registry.opensource.zalan.do/acid/logical-backup:v1.10.1
