@@ -1,1 +1,1 @@
-java:8
+bitnami/java:1.8
