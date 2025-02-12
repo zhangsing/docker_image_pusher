@@ -1,1 +1,2 @@
-telegraf
+chronograf:1.10
+kapacitor:1.7
