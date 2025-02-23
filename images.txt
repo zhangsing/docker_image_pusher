@@ -1,1 +1,1 @@
-registry.access.redhat.com/ubi8/ubi-minimal:latest
+minio/mc:RELEASE.2022-12-24T15-21-38Z
