@@ -1,1 +1,1 @@
-bytebase/bytebase:3.5.1
+bytebase/bytebase:3.3.1
