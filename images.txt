@@ -1,1 +1,1 @@
-registry.access.redhat.com/ubi8/ubi-minimal:latest
+easzlab/kubeasz:3.6.6
