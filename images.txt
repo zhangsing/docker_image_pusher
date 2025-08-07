@@ -1,1 +1,1 @@
-easzlab/kubeasz:3.6.6
+kapicorp/kapitan:0.34
