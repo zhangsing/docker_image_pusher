@@ -1,6 +1,1 @@
-redis:6-alpine
-mariadb:10.6
-dragonflyoss/manager:latest
-dragonflyoss/client:latest
-dragonflyoss/scheduler:latest
-dragonflyoss/client:latest
+yandex/clickhouse-playground
