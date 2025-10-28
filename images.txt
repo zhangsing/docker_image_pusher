@@ -1,1 +1,1 @@
-confluentinc/cp-zookeeper:7.5.0
+zookeeper:3.8.3
