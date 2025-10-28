@@ -1,3 +1,1 @@
-percona/percona-xtrabackup:8.0
-ghcr.io/openark/orchestrator:latest
 prom/mysqld-exporter:v0.13.0
