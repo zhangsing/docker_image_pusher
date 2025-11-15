@@ -1,1 +1,1 @@
-docker/whalesay:v3.6.13
+docker/whalesay
