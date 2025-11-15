@@ -1,4 +1,1 @@
-quay.io/argoproj/argocli:v3.6.13
-quay.io/argoproj/workflow-controller:v3.6.13
-kong/httpbin
-minio/minio:RELEASE.2022-11-17T23-20-09Z
+docker/whalesay:v3.6.13
