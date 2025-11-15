@@ -1,1 +1,1 @@
-docker/whalesay
+quay.io/argoproj/argoexec:v3.6.13
