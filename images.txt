@@ -1,1 +1,1 @@
-quay.io/argoproj/argoexec:v3.6.13
+jenkins/jenkins:jdk21
