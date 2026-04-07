@@ -1,4 +1,1 @@
-golang:1.21-alpine
-alpine:3.19
-node:20-alpine
-nginx:alpine
+haproxy:2.8.10
