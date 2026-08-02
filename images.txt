@@ -1,1 +1,2 @@
-miqdigital/openjdk:8u191
+rust:1.64.0
+debian:buster-slim
