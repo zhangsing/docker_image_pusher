@@ -1,2 +1,1 @@
-rust:1.64.0
-debian:buster-slim
+maven:3.8-openjdk-11
